@@ -1,5 +1,5 @@
-import Footer from "../components/Footer";
-import Header from "../components/Header";
+import Footer from "../compones/Footer.jsx";
+import Header from "../compones/Header.jsx";
 
 function Inicio() {
   return (

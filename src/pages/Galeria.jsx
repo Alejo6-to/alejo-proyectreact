@@ -1,6 +1,6 @@
 
-import Footer from "../compones/Footer"
-import Header from "../compones/Header"
+import Footer from "../compones/Footer.jsx";
+import Header from "../compones/Header.jsx";
 
 function Galeria() {
   return (
